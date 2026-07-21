@@ -4,12 +4,12 @@
 
 All tools are free and require no account. Built and maintained at **[privatool.com](https://privatool.com)**.
 
-There are currently **120 tools** across 9 categories.
+There are currently **140 tools** across 9 categories.
 
 ## Contents
 
 - [Image Tools](#image-tools) (31)
-- [PDF Tools](#pdf-tools) (9)
+- [PDF Tools](#pdf-tools) (29)
 - [Developer Tools](#developer-tools) (36)
 - [Text Tools](#text-tools) (19)
 - [Converter Tools](#converter-tools) (6)
@@ -64,6 +64,26 @@ There are currently **120 tools** across 9 categories.
 - [PDF Watermark](https://privatool.com/tools/pdf-watermark): Add text or image watermarks to PDF files online free. Customize opacity and position.
 - [Image to PDF Converter](https://privatool.com/tools/image-to-pdf): Convert JPG, PNG, WebP images to PDF online free. Drag to reorder, choose page size and margins. No upload needed.
 - [Word to PDF Converter](https://privatool.com/tools/word-to-pdf): Convert Word DOCX files to PDF in your browser. No upload, preserves formatting.
+- [PDF to Word Converter](https://privatool.com/tools/pdf-to-word): Convert PDF to editable Word (DOCX) online free. Text-based PDFs convert in your browser — no upload.
+- [HTML to PDF Converter](https://privatool.com/tools/html-to-pdf): Convert HTML to PDF online free. Paste HTML or upload an .html file. No upload to server.
+- [Excel to PDF Converter](https://privatool.com/tools/excel-to-pdf): Convert Excel (XLSX, XLS, CSV) to PDF online free. Each sheet becomes a clean table. No upload.
+- [PDF to Excel Converter](https://privatool.com/tools/pdf-to-excel): Convert PDF tables to Excel (XLSX) online free. Detects rows and columns in your browser. No upload.
+- [PowerPoint to PDF Converter](https://privatool.com/tools/powerpoint-to-pdf): Convert PowerPoint (PPTX) to PDF online free. One page per slide. No upload to server.
+- [PDF to PowerPoint Converter](https://privatool.com/tools/pdf-to-powerpoint): Convert PDF to PowerPoint (PPTX) online free. Each page becomes a slide. No upload to server.
+- [PDF to PDF/A Converter](https://privatool.com/tools/pdf-to-pdfa): Convert PDF to archival PDF/A online free. Embeds fonts and sRGB output intent. No upload to server.
+- [Remove Pages from PDF](https://privatool.com/tools/remove-pages): Delete pages from a PDF online free. Click pages to remove and download a new PDF. No upload to server.
+- [Extract Pages from PDF](https://privatool.com/tools/extract-pages): Extract pages from a PDF online free. Select pages or a range and save them as a new PDF. No upload.
+- [Organize PDF](https://privatool.com/tools/organize-pdf): Organize PDF pages online free. Drag to reorder, rotate, or delete pages. No upload to server.
+- [Add Page Numbers to PDF](https://privatool.com/tools/add-page-numbers): Add page numbers to a PDF online free. Choose position, format, and start number. No upload to server.
+- [Crop PDF](https://privatool.com/tools/crop-pdf): Crop a PDF online free. Draw a crop area and apply it to every page. No upload to server.
+- [Sign PDF](https://privatool.com/tools/sign-pdf): Sign a PDF online free. Draw your signature and place it anywhere on the page. No upload to server.
+- [Scan to PDF](https://privatool.com/tools/scan-to-pdf): Scan documents to PDF online free using your camera. Capture pages or upload photos. No upload to server.
+- [Compare PDF](https://privatool.com/tools/compare-pdf): Compare two PDFs online free. See both versions side by side with changed pixels highlighted. No upload.
+- [OCR PDF](https://privatool.com/tools/ocr-pdf): OCR a scanned PDF online free to make it searchable. Adds a hidden text layer. No upload to server.
+- [Repair PDF](https://privatool.com/tools/repair-pdf): Repair a damaged or corrupted PDF online free. Rebuilds the file structure so it opens again. No upload.
+- [Fill PDF Forms](https://privatool.com/tools/pdf-forms): Fill PDF forms online free. Complete text fields, checkboxes, and dropdowns, then flatten. No upload.
+- [Edit PDF](https://privatool.com/tools/edit-pdf): Edit a PDF online free. Add text, images, and freehand drawings to any page. No upload to server.
+- [Redact PDF](https://privatool.com/tools/redact-pdf): Redact a PDF online free. Draw black boxes over sensitive content to permanently remove it. No upload.
 - [PDF Password Protector](https://privatool.com/tools/pdf-password): Add or remove password protection from PDF files online. All processing in your browser.
 
 ## Developer Tools
