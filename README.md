@@ -146,6 +146,7 @@ There are currently **140 tools** across 9 categories.
 - [AI Cover Letter Generator](https://privatool.com/tools/cover-letter-generator): Generate tailored cover letters for any job using AI. Professional, enthusiastic, or concise.
 - [AI Email Writer](https://privatool.com/tools/email-writer): Write professional emails with AI. 10 email types, custom tone, auto subject line.
 - [AI Bio Generator](https://privatool.com/tools/bio-generator): Generate bios for Instagram, LinkedIn, Twitter, TikTok and more. 3 options, platform-specific.
+- [Easy Memorize](https://easymemorize.com): Memorize speeches, presentations, and scripts locally in the browser using active recall, progressive word blanking, first-letter hints, and typed recall diffing.
 
 ## Converter Tools
 
